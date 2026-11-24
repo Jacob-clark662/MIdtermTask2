@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class act1 {
     public static void main(String[] args) {
+        // test
         Scanner sc = new Scanner(System.in);
         
         int array_3d[][] = new int[3][3];
